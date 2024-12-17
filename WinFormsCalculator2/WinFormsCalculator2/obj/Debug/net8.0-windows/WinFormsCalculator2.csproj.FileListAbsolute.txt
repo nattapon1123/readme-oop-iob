@@ -1,0 +1,17 @@
+C:\Users\NK 2314\Documents\GitHub\readme-oop-lob\WinFormsCalculator2\WinFormsCalculator2\bin\Debug\net8.0-windows\WinFormsCalculator2.exe
+C:\Users\NK 2314\Documents\GitHub\readme-oop-lob\WinFormsCalculator2\WinFormsCalculator2\bin\Debug\net8.0-windows\WinFormsCalculator2.deps.json
+C:\Users\NK 2314\Documents\GitHub\readme-oop-lob\WinFormsCalculator2\WinFormsCalculator2\bin\Debug\net8.0-windows\WinFormsCalculator2.runtimeconfig.json
+C:\Users\NK 2314\Documents\GitHub\readme-oop-lob\WinFormsCalculator2\WinFormsCalculator2\bin\Debug\net8.0-windows\WinFormsCalculator2.dll
+C:\Users\NK 2314\Documents\GitHub\readme-oop-lob\WinFormsCalculator2\WinFormsCalculator2\bin\Debug\net8.0-windows\WinFormsCalculator2.pdb
+C:\Users\NK 2314\Documents\GitHub\readme-oop-lob\WinFormsCalculator2\WinFormsCalculator2\obj\Debug\net8.0-windows\WinFormsCalculator2.Form1.resources
+C:\Users\NK 2314\Documents\GitHub\readme-oop-lob\WinFormsCalculator2\WinFormsCalculator2\obj\Debug\net8.0-windows\WinFormsCalculator2.csproj.GenerateResource.cache
+C:\Users\NK 2314\Documents\GitHub\readme-oop-lob\WinFormsCalculator2\WinFormsCalculator2\obj\Debug\net8.0-windows\WinFormsCalculator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NK 2314\Documents\GitHub\readme-oop-lob\WinFormsCalculator2\WinFormsCalculator2\obj\Debug\net8.0-windows\WinFormsCalculator2.AssemblyInfoInputs.cache
+C:\Users\NK 2314\Documents\GitHub\readme-oop-lob\WinFormsCalculator2\WinFormsCalculator2\obj\Debug\net8.0-windows\WinFormsCalculator2.AssemblyInfo.cs
+C:\Users\NK 2314\Documents\GitHub\readme-oop-lob\WinFormsCalculator2\WinFormsCalculator2\obj\Debug\net8.0-windows\WinFormsCalculator2.csproj.CoreCompileInputs.cache
+C:\Users\NK 2314\Documents\GitHub\readme-oop-lob\WinFormsCalculator2\WinFormsCalculator2\obj\Debug\net8.0-windows\WinFormsCalculator2.sourcelink.json
+C:\Users\NK 2314\Documents\GitHub\readme-oop-lob\WinFormsCalculator2\WinFormsCalculator2\obj\Debug\net8.0-windows\WinFormsCalculator2.dll
+C:\Users\NK 2314\Documents\GitHub\readme-oop-lob\WinFormsCalculator2\WinFormsCalculator2\obj\Debug\net8.0-windows\refint\WinFormsCalculator2.dll
+C:\Users\NK 2314\Documents\GitHub\readme-oop-lob\WinFormsCalculator2\WinFormsCalculator2\obj\Debug\net8.0-windows\WinFormsCalculator2.pdb
+C:\Users\NK 2314\Documents\GitHub\readme-oop-lob\WinFormsCalculator2\WinFormsCalculator2\obj\Debug\net8.0-windows\WinFormsCalculator2.genruntimeconfig.cache
+C:\Users\NK 2314\Documents\GitHub\readme-oop-lob\WinFormsCalculator2\WinFormsCalculator2\obj\Debug\net8.0-windows\ref\WinFormsCalculator2.dll
